@@ -1,3 +1,5 @@
+import { ComposerLab } from "@/components/composer-lab"
+
 export default function Home() {
-  return <main className="w-full h-full" />
+  return <ComposerLab />
 }
